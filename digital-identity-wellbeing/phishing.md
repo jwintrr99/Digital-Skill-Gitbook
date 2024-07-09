@@ -32,6 +32,7 @@ Some of the ways you can help protect yourself from phishing scams and identity 
 - Do not click links or open attachments unless you are certain who they came from
 - If you are seemingly contacted by an institution you have a business relationship with, look up their usual contact details online (independently of the suspicious message) and contact them through there to confirm if the message is genuine or not.  Do not engage with the suspicious message, but seek confirmation directly from the institution.
 - Discuss suspicious messages with a friend or family member
+- Never give your password out to anyone
 - Keep informed of common types of scams 
 - Beware of offers that seem too good to be true
 - Use strong passwords and update them regularly
